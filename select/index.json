@@ -1,0 +1,64 @@
+{
+  "version": 1,
+  "base_track": "暗闇",
+  "base_artist": "星野 源",
+  "createdAt": "2026-02-23T10:06:42.655343Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "暗闇 - Kurayami",
+      "artist": "STU48",
+      "has_synced": true,
+      "path": "select/01_暗闇_-_Kurayami_STU48.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "暗闇",
+      "artist": "花譜/ヰ世界情緒",
+      "has_synced": true,
+      "path": "select/02_暗闇_花譜_ヰ世界情緒.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "暗闇",
+      "artist": "STU48",
+      "has_synced": true,
+      "path": "select/03_暗闇_STU48.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "暗闇",
+      "artist": "花譜",
+      "has_synced": true,
+      "path": "select/04_暗闇_花譜.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "暗闇",
+      "artist": "花譜×ヰ世界情緒",
+      "has_synced": true,
+      "path": "select/05_暗闇_花譜×ヰ世界情緒.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "暗闇 (Kurayami)",
+      "artist": "星野源",
+      "has_synced": true,
+      "path": "select/06_暗闇_(Kurayami)_星野源.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "暗闇",
+      "artist": "星野源",
+      "has_synced": false,
+      "path": "select/pl_01_暗闇_星野源.txt"
+    }
+  ]
+}
